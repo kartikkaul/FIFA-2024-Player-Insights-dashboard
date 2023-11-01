@@ -1,6 +1,7 @@
 # FiFA-2024-Player-Insights-dashboard
 Tableau Dashboard link: https://public.tableau.com/views/Fifa2024PlayerStats/PlayersUnveiled?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link                          
 Key Insights:
+
 1️. Average Metrics:  
 - The average age of players in the game is 26-27, highlighting the blend of youthful energy and experienced maestros! 
 - There's an average strength rating of 66.0 and players sprint at an average speed of 65.7. It's amazing to see how these virtual metrics mimic real-life athleticism.
